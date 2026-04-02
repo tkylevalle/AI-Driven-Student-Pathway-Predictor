@@ -25,9 +25,3 @@ EduPath UAE addresses the challenges of manual academic advising at Sheffield Pr
 * **Language:** Python 
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook / Google Colab 
-
-## Team Members
-* **Timothy Kyle Valle** (8538797)
-* **Divyesh Sasikumar** (8392493)
-* **Saqib Iftekhari** (8290891)
-* **Disha Gurav** (8331583) 
